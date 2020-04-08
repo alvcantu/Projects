@@ -1,3 +1,3 @@
-# UCSDCoursera
+# Projects
 
-Files are part of four course data science project
+Personal data science python projects
